@@ -54,7 +54,6 @@ The analysis includes several key visualizations:
 ## File Structure
 - `Olist_Customer_Analysis.ipynb`: The main analysis notebook containing all the code, insights, and visualizations.
 - `requirements.txt`: List of dependencies needed to run the project.
-- `data/`: The folder containing the dataset (not included in the repository due to size).
 
 ## Insights Delivered
 - **Customer Patterns**: Insights into customer distribution and buying habits across regions.
